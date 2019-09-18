@@ -1,0 +1,25 @@
+ul {
+  font-size: 14px;
+  color: red;
+}
+
+ol {
+  font-size: 18px;
+  color: red;
+}
+
+@media (min-width: 800px) {
+  body {
+    background-color: lightgreen;
+  }
+}
+@media (max-width: 799px) {
+  body {
+    background-color: lightblue;
+  }
+}
+img {
+  width: 50%;
+}
+
+/*# sourceMappingURL=variables_project0.css.map */
